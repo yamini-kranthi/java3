@@ -25,7 +25,7 @@ public class Car {
 		
 		c1.getdetils();
 		c2.getdetils();
-		c3.getdetails();
+		c3.getdetils();
 	}
 
 }
