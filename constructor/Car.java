@@ -21,8 +21,11 @@ public class Car {
 		Car c=new Car();//default constructor
 		Car c1=new Car("Accord",1001,"Honda");
 		Car c2=new Car("camry",1002,"Tayota");
+		Car c3=new Car("corolla",1003,"Tayota");
+		
 		c1.getdetils();
 		c2.getdetils();
+		c3.getdetails();
 	}
 
 }
